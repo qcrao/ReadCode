@@ -1,5 +1,3 @@
-[TOC]
-
 # 项目结构
 
 ![xlog4go](./diagram/xlog4go.jpg)
@@ -108,11 +106,11 @@ for {
 
 ```go
 for _, w := range l.writers {
-  if f, ok := w.(Flusher); ok {
-    if err := f.Flush(); err != nil {
-      log.Println(err)
-   }
-  }
+	if f, ok := w.(Flusher); ok {
+		if err := f.Flush(); err != nil {
+			log.Println(err)
+		}
+	}
 }
 ```
 
