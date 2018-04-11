@@ -1,4 +1,4 @@
-# 项目结构
+# 系统结构
 
 ![xlog4go](./diagram/xlog4go.jpg)
 
