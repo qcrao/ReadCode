@@ -5,11 +5,11 @@
 
 # project list
 
-| 序号   | Github 地址                             | 项目功能 | 整理时间     |
-| ---- | ------------------------------------- | ---- | -------- |
-| 1    | https://github.com/shengkehua/xlog4go | 日志   | 18.01.12 |
-| 2    |                                       |      |          |
-| 3    |                                       |      |          |
+| 序号 | Github 地址                           | 项目功能        | 整理时间 |
+| ---- | ------------------------------------- | --------------- | -------- |
+| 1    | https://github.com/shengkehua/xlog4go | Log             | 18.01.12 |
+| 2    | DPool                                 | Connection pool | 18.4.14  |
+| 3    |                                       |                 |          |
 
 # structure
 

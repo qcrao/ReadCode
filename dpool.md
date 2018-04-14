@@ -1,6 +1,6 @@
 # 系统结构
 
-![dpool](/Users/qcrao/ReadCode/diagram/dpool.jpg)
+![dpool](./diagram/dpool.jpg)
 
 # 逻辑理解
 
